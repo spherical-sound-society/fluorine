@@ -7,5 +7,6 @@ https://www.youtube.com/watch?v=JScYtv4xBM4
 
 If you're interested, you can purchase one here.
 https://www.etsy.com/es/listing/1601370559/
+https://www.tindie.com/products/jc2046/fluorine-a-futuristic-generative-synth/
 
 If you are a DIY user, download ibom.rar and extract in your computer. Open it locally to check the BOM
