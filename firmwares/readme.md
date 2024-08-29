@@ -7,7 +7,7 @@ There are multiples firmwares available for Fluorine.
 
 1.4T Experimental techno and droning oriented.
 
-1.5 To be released
+1.5 Latest and new official one. You can load presets. To load presets, press function key, turn the upper right pot to selelct the preset that you want and press again func to load it.
 
 
 To change the firmware in your fluorine just connect it to the computer with a USB C cable.
